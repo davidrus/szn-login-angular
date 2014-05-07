@@ -1,0 +1,28 @@
+{
+  "name": "SZN login",
+  "version": "0.0.1",
+  "authors": [
+    "David Rus <david.rus@me.com>"
+  ],
+  "description": "Ajax popup login pro szn sluzby",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angularjs",
+    "seznam",
+    "login"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "lesshat": "~3.0.0"
+  }
+}
